@@ -17,7 +17,8 @@
     "@strapi/strapi": "4.1.7",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
-    "strapi-plugin-ckeditor5": "^2.1.1-rc.1"
+    "strapi-plugin-ckeditor5": "^2.1.1-rc.1",
+    "strapi-provider-upload-aws-s3-advanced": "^4.0.8"
   },
   "author": {
     "name": "A Strapi developer"
